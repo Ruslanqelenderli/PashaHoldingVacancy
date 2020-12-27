@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\PashaHoldingVacancy\PashaHoldingVacancy\obj\Debug\PashaHoldingVacancy.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PashaHoldingVacancy\PashaHoldingVacancy\obj\Debug\PashaHoldingVacancy.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PashaHoldingVacancy\PashaHoldingVacancy\bin\Debug\PashaHoldingVacancy.exe.config
+C:\Users\User\source\repos\PashaHoldingVacancy\PashaHoldingVacancy\bin\Debug\PashaHoldingVacancy.exe
+C:\Users\User\source\repos\PashaHoldingVacancy\PashaHoldingVacancy\bin\Debug\PashaHoldingVacancy.pdb
+C:\Users\User\source\repos\PashaHoldingVacancy\PashaHoldingVacancy\obj\Debug\PashaHoldingVacancy.exe
+C:\Users\User\source\repos\PashaHoldingVacancy\PashaHoldingVacancy\obj\Debug\PashaHoldingVacancy.pdb
